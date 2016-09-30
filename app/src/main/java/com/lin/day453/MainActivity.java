@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         initDate();
     }
 
+    int x= 9;
     private void initDate() {
     }
 
